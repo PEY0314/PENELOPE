@@ -82,6 +82,10 @@ min-width:1280px;
     background-color:#000000;
     height:62px;
     border-radius: 3px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
 }
 .bar p{
 	padding-left:549px;
