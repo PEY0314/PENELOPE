@@ -60,7 +60,7 @@ body{
     height:66px;
     border-radius: 3px;
 }
-/*.site-nav ul{
+.site-nav ul{
 	margin:0px;
 	padding:0px;
 }  
@@ -74,7 +74,7 @@ body{
     padding-right:132px;
     padding-bottom: 16px;
 }
-.site-nav a{
+/*.site-nav a{
 	text-decoration: none;
     color: pink;
     transition: color 0.9s;
