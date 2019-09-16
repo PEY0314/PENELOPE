@@ -29,7 +29,8 @@ min-width:1280px;
  }
  .img{
      margin-top:32px;
-     /*margin-left:430px;*/
+     float:left;
+     margin-right:430px;
      margin-right: auto;
      margin-left: auto;
 }
