@@ -1,13 +1,14 @@
 body{
-	background-image: url("bg.png");
-    background-repeat: no-repeat;
-background-position: center 0%;
-margin: 0px;
-padding: 0px;
-min-width:1280px;
-	margin-right: auto;	
+	max-width: 1280px;
+	max-height: 1650px;
+	margin-right: auto;
 	margin-left:auto;
-
+	border-radius: 3px;
+}
+.container{
+background-image: url("./bg.png");
+	background-repeat:no-repeat;
+	background-color:#000000;
 }
 .a-0{
 	float:left;
