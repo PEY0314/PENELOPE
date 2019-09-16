@@ -115,6 +115,10 @@ video{
     background-color: #362e2b;
     height:100.5px;
    width:1280px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;  
     
 }
 /*.footer p{
