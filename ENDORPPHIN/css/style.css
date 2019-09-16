@@ -5,6 +5,9 @@ background-position: center 0%;
 margin: 0px;
 padding: 0px;
 min-width:1280px;
+	margin-right: auto;	
+	margin-left:auto;
+
 }
 .a-0{
 	float:left;
