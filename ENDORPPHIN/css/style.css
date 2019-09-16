@@ -7,7 +7,7 @@ body{
 	border-radius: 3px;
 }
 .container{
-background-image: url("./bg.png");
+background-image: url("bg.png");
 	background-repeat:no-repeat;
 	background-color:#000000;
 }
