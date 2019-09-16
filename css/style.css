@@ -1,20 +1,16 @@
-
 body{
-	background-image: url("(0)background2.png");
-background-repeat: no-repeat;
-background-position: center 0%;
-margin: 0px;
-padding: 0px;
-min-width:1280px;
-max-width:1280px;
+	max-width: 1280px;
+	/*max-height: 1496px;*/
 	margin-right: auto;	
-	margin-left:auto;     
+	margin-left:auto;
+	
+
 }
 .container{
-        min-width:1280px;
-        max-width:1280px;
-	margin-right: auto;	
-	margin-left:auto; 
+        background-image: url("(0)background2.png");
+	background-repeat:no-repeat;
+	background-color:#000000;
+	
 }
 .clear:after{
 	content:"";
