@@ -65,6 +65,10 @@ video{
     background-color:#362e2b;
     height:62px;
     border-radius: 3px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;  
 }
 .bar p{
 	padding-left:549px;
