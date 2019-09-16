@@ -52,7 +52,7 @@ body{
 	font-weight:bold;
 }
 
-.nav {
+.site-nav {
 	width:940px;
 	margin-left:170px;
     margin-top:25px;
@@ -60,10 +60,11 @@ body{
     height:66px;
     border-radius: 3px;
 }
-.nav ul{
+.site-nav ul{
 	margin:0px;
+	padding:0px;
 }  
-.nav li{
+.site-nav li{
 	list-style: none;
 	float:left;
     font-family: Arial;
@@ -74,13 +75,13 @@ body{
     padding-bottom: 16px;
     /*color:#bc6161;*/
 }
-.nav a{
+.site-nav a{
 	text-decoration: none;
     color: pink;
     transition: color 0.9s;
     transition: font-size 0.9s;
 }
-.nav a:hover
+.site-nav a:hover
 { 
     color:orange;
     font-size: 103%;
@@ -116,4 +117,9 @@ body{
 .footer p{
 	margin-left:auto;
 	margin-right:auto;
+}
+.clear:after {
+	content:"";
+	display: block;
+	clear: both;
 }
