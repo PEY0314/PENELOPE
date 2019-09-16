@@ -66,6 +66,10 @@ min-width:1280px;
     background-color:#eb6877;
     height:62px;
     border-radius: 3px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
 }
 .bar p{
 	padding-left:549px;
@@ -174,5 +178,9 @@ main-area {
     background-color: #eb6877;
     height:200px;
    width:1280px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
     
 }
