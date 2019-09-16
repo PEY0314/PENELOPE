@@ -6,6 +6,9 @@ body{
     margin: 0px;
     padding: 0px;
     min-width:1280px;
+	margin-right: auto;	
+	margin-left:auto;
+
 }
 
 .headrow {
