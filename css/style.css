@@ -75,13 +75,16 @@ body{
     padding-right:132px;
     padding-bottom: 16px;*/
 }
-/*.site-nav a{
-	text-decoration: none;
+.site-nav a{
+    text-decoration: none;
     color: pink;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
     transition: color 0.9s;
     transition: font-size 0.9s;
 }
-.site-nav a:hover
+/*.site-nav a:hover
 { 
     color:orange;
     font-size: 103%;
