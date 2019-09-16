@@ -10,6 +10,12 @@ max-width:1280px;
 	margin-right: auto;	
 	margin-left:auto;     
 }
+.container{
+        min-width:1280px;
+        max-width:1280px;
+	margin-right: auto;	
+	margin-left:auto; 
+}
 .clear:after{
 	content:"";
 	display:block;
