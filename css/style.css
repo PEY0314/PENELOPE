@@ -27,8 +27,11 @@ min-width:1280px;
  	text-align: center;
  }
  .img{
- 	 margin-left:418px;
      margin-top:32px;
+	  margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
      
 }
 .intro1 p{
