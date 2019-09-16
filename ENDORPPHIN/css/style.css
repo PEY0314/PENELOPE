@@ -24,6 +24,10 @@ min-width:1280px;
     width:1280px;
     background-color: #000000;
     border-radius: 3px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
  }
  .headtext{
  	margin-left:95px;
