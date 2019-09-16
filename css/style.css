@@ -67,7 +67,7 @@ body{
 .site-nav li{
 	list-style: none;
 	float:left;
-	margin:16px 132px;
+	margin:16px 50px;
    /* font-family: Arial;
     font-size: 30px;
     font-weight: bold;
@@ -84,11 +84,11 @@ body{
     transition: color 0.9s;
     transition: font-size 0.9s;
 }
-/*.site-nav a:hover
+.site-nav a:hover
 { 
     color:orange;
     font-size: 103%;
-}*/
+}
 .fbbtn{
 	margin-top:25px;
 	float:left;
