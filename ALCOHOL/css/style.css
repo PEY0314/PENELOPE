@@ -16,6 +16,10 @@ body{
     width:1280px;
     background-color: #362e2b;
     border-radius: 3px;
+	margin-right: auto;	
+	margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;
  }
  .headtext{
  	margin-left:112px;
