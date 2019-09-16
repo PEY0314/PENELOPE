@@ -55,14 +55,12 @@ min-width:1280px;
 
 .site-nav {
 	width:940px;
-	/*margin-left:170px;*/
+	margin-left:170px;
     margin-top:25px;
     background-color: #362e2b;
     height:66px;
     border-radius: 3px;
-    margin-right: auto;	
-    margin-left:auto;
-    background-position: center 0%;
+    
 }
 .site-nav ul{
 	margin:0px;
